@@ -1,0 +1,3 @@
+My name is nitesh.
+I live in pokhara.
+I know C,C++,Java,Javascript
